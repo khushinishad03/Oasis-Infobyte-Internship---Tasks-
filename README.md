@@ -27,3 +27,6 @@ sns.barplot(data=data, x="Region", y="Unemployment_Rate")
 plt.title("Region-wise Unemployment Analysis")
 plt.xticks(rotation=45)
 plt.show()
+
+
+
